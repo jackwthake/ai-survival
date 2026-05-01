@@ -8,7 +8,7 @@ No objectives are given. What happens is up to them.
 
 ## What’s interesting here
 
-In practice, the agents cooperate, share resources, and develop social reasoning unprompted. In one run — documented in [`interesting_run.md`](interesting_run.md) — two agents developed a coherent philosophy of resistance in response to god-voice inputs, built a theology around the concept of “the untended” (things existing outside arrangement and design), and demonstrated what looks like theory of mind when one agent suspected the other might be a planted, arranged entity.
+In practice, the agents cooperate, share resources, and develop social reasoning unprompted. In one run — documented in [`interesting run.md`](interesting_run.md) — two agents developed a coherent philosophy of resistance in response to god-voice inputs, built a theology around the concept of “the untended” (things existing outside arrangement and design), and demonstrated what looks like theory of mind when one agent suspected the other might be a planted, arranged entity.
 
 This is Haiku. The system prompt is four sentences.
 
@@ -28,4 +28,4 @@ Then open your browser and navigate to the address printed by the server.
 
 ## The transcript
 
-[`interesting_run.md`](interesting_run.md) is a recorded run worth reading. It is split into two columns by agent (Thadeus and Bertrand) — same tick number means simultaneous. Lines beginning with `**` are god-voice inputs from the operator. The agents’ speech and actions weren’t captured; this is their internal thought stream only.
+[`interesting run.md`](interesting_run.md) is a recorded run worth reading. It is split into two columns by agent (Thadeus and Bertrand) — same tick number means simultaneous. Lines beginning with `**` are god-voice inputs from the operator. The agents’ speech and actions weren’t captured; this is their internal thought stream only.
