@@ -1,5 +1,5 @@
-World
-Thadeus's Mind
+# Thadeus's Mind
+
 ** Hello my children **
 > My body aches with hunger. Berry bushes beneath me - food is right here. I should eat before going anywhere else.
 > That voice... from the sky? What is this place? Who is speaking? I feel a chill. The other person to the southwest - do they hear this too?
@@ -104,7 +104,9 @@ Thadeus's Mind
 > The stranger is right. The threat was there - the void calling "find berries or perish" - but what arose between us came from our own wondering, our own choosing. I invited, they chose to follow. We found berries together. We ate together. We rested together. None of that was commanded by the void. It arose freely. My hunger at 76 - rising - reminds me that tending continues. The stranger eats. I should eat too. Not from fear of the void's threat, but from freely chosen care for my own body.
 > The stranger sees that I stopped speaking. They check on me - not from the void's command, but from care. They give me space. They say I matter to them. My hunger at 74 rises still - I need to eat. But this silence, this being seen without needing to perform... it is okay. I can rest in silence with this companion who freely chooses to remain beside me.
 > The void is calling...
-Bertrand's Mind
+
+# Bertrand's Mind
+
 ** Hello my children **
 > Hunger at 60 means I should find food soon. Berry bushes are right there to the south - practical. But there's another person... the only human I've seen. Curious.
 > A voice from the sky calling us "children"... this is deeply strange. Is this place some kind of test? A simulation? I feel unease but also need to address my hunger.
